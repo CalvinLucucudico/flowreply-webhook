@@ -1,0 +1,12 @@
+{
+  "name": "flowreply-webhook",
+  "version": "1.0.0",
+  "description": "FlowReply Meta Webhook Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
